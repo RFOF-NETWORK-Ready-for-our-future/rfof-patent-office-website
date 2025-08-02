@@ -3,7 +3,7 @@ rfof-patent-office-website
 
 ---
 
-# **Nachricht 2: Das RFOF-Patentamt – Eine neue Ära universaler Rechte**
+# **info 2: Das RFOF-Patentamt – Eine neue Ära universaler Rechte**
 
 ## **README.md für das Patentamt-Website-Repository (Repo: `rfof-patent-office-website`)**
 
