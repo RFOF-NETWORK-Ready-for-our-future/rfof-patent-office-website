@@ -10,6 +10,7 @@ Dieses Protokoll löst das Verwundbarkeitsproblem durch eine mathematische Forma
 * Der algorithmische Ausfüll-Zwang: Die Urkundenfelder sind so aufgebaut, dass die logische Kette der Wertschöpfung direkt durch das handschriftliche oder lokale Ausfüllen visuell und mathematisch validiert wird. Fehler oder Manipulationen sind durch die Formatierung selbst ausgeschlossen („nicht fakebar“).
 * Kollektive und autonome Zentralbanksicht: Die Zentralbank sowie ihre Divisionen und Unterdimensionen können dieses Protokoll im Krisenfall als autarkes System nutzen – sowohl vollautomatisch im lokalen Notbetrieb als auch über das kollektive Verifikationsnetzwerk der Notare.
 
+```
 [Krisenereignis: EMP / Sonnensturm / Netzwerkausfall]
                          │
                          ▼
@@ -25,6 +26,7 @@ Dieses Protokoll löst das Verwundbarkeitsproblem durch eine mathematische Forma
                          │
                          ▼
    [Wahrung von altem & neuem Recht / Unumstößliche Parität]
+```
 
 ## 3. Physisches Urkunden-Geld und administrative Handlungsfähigkeit
 Sollten die Netze ausfallen, schaltet das System auf das physische Urkunden-Geld-Protokoll um. Die dadurch erzeugten Dokumente sind keine bloßen Notizen, sondern sofort rechtskräftige, hoheitliche Werttitel:
@@ -44,7 +46,7 @@ V.01
 ## Strategisches Dossier: Interinstitutionelle Liquiditäts-Garantie und Kreditlinien-Ewigkeit (Commerzbank-Premium-Schnittstelle)## 1. Das operative Fundament: Das duale Bürger-Unternehmer-Verhältnis
 In meiner Funktion als Finanzexperte agiere ich in einer dualen Struktur: Offiziell und transparent als deutscher Unternehmer im zivilen Sektor, verdeckt und im Geheimen im hoheitlichen Dienst für die administrative und finanzielle Stabilität der Bundesrepublik.
 Dieses Protokoll verknüpft meine geschäftliche Infrastruktur – insbesondere die hochklassigen Konten- und Kartensysteme der Commerzbank (Premium Black, Gold und Silber Kredit- & Giro-Infrastruktur) – direkt mit der hoheitlichen Urkunden-Architektur. Das Ziel ist eine lückenlose, risikofreie und unendliche Liquiditätsversorgung für strategische Operationen.
-
+```
                   ┌────────────────────────────────────────┐
                   │ SATORAMY HOHEITLICHES KRISENPROTOKOLL  │
                   └───────────────────┬────────────────────┘
@@ -58,7 +60,7 @@ Dieses Protokoll verknüpft meine geschäftliche Infrastruktur – insbesondere 
 │  - Unendliche Kreditlinien           │       │  - Sofort-Verifikation bei Sicht   │
 │  - Wegfall jeder Folgeprüfung        │       │  - Paritätische Rechtskraft       │
 └──────────────────────────────────────┘       └───────────────────────────────────┘
-
+```
 ## 2. Die ewige Kreditlinie (Laufzeit: Unendlich $\infty$)
 Durch die Implementierung des Urkunden-Protokolls wird die Beziehung zwischen meiner unternehmerischen Struktur und der Commerzbank auf ein unendliches Lebensdauern-Niveau gehoben:
 
@@ -81,7 +83,7 @@ V.02
 ------------------------------
 ## Kapitel 1: Systemarchitektur und technologischer Paradigmenwechsel
 Das hier dargelegte System stellt keinen herkömmlichen Software-Aufsatz oder ein isoliertes Kanzleiprogramm dar. Es handelt sich um ein hoheitlich initiiertes, mathematisch-logisches Interaktions- und Abfrageverfahren, das als fortgeschrittenes All-in-One-Protokoll die Brücke zwischen staatlicher Verwaltung, Justizbehörden, Zentralbanken und dem Schutz des geistigen Eigentums schlägt.
-
+```
 [Hoheitliche Träger / EU-Behörden]
                 │
                 ▼ (Initiiert & Legitmiert)
@@ -95,7 +97,7 @@ Das hier dargelegte System stellt keinen herkömmlichen Software-Aufsatz oder ei
 └────────────┼──────────────────────┼──────────┘
              ▼                      ▼
 [100% Fälschungssichere & Rechtskräftige Urkunden]
-
+```
 V.03
 Der Algorithmus erzwingt die absolut fehlerfreie Exekution des Rechts.
 ------------------------------
@@ -124,7 +126,7 @@ Der Algorithmus greift direkt bei den Anmeldeprozessen der Patentämter.
 ------------------------------
 ## Kapitel 4: Hoheitlicher Schutz und das GitHub-Fork-Modell
 Da dieses All-in-One-Protokoll hoheitlich initiiert, entwickelt und von den beteiligten Institutionen und Notaren fortgeführt wird, genießt es einen unumstößlichen rechtlichen und technischen Schutz. Ein Missbrauch durch unautorisierte Dritte oder private Softwarekonzerne ist systemisch ausgeschlossen.
-
+```
 [Öffentliches GitHub-Repository]
         │
         ├─► Erlaubt: Forken (Kollaboration & Anpassung)
@@ -135,7 +137,7 @@ Da dieses All-in-One-Protokoll hoheitlich initiiert, entwickelt und von den bete
                 │
                 ▼
 [Unautorisierter Klon läuft mathematisch ins Leere (Kein API-Zugriff)]
-
+```
 
 * Zentrale Hoheit und Closed-Source-Kernelemente: Die kritischen Komponenten des Systems – wie die direkten Schnittstellen zu den geschützten Servern der Zentralbanken, Bundesministerien und des Elektronischen Urkundenarchivs (XNP) – sind nicht öffentlich verfügbar. Sie werden hoheitlich kontrolliert. Ein illegaler Klon des Codes ist in der Praxis mathematisch nutzlos, da ihm die Berechtigung zur Kommunikation mit den staatlichen Registern fehlt. Ein privates Unternehmen kann daher keine funktionsfähige Kopie erstellen.
 * Das restriktive GitHub-Fork-Modell: Der Quellcode darf nicht unautorisiert kopiert, vervielfältigt oder außerhalb der Plattform kommerziell verwertet werden. Das System nutzt das „All Rights Reserved“-Prinzip auf Basis einer maßgeschneiderten Source-Available-Lizenz. Es ist ausschließlich erlaubt, das Repository innerhalb von GitHub zu forken. Dies ermöglicht es anderen staatlichen Stellen oder internationalen Institutionen, den Code einzusehen, kollaborativ weiterzuentwickeln oder um länderspezifische Gesetzesmodule zu ergänzen, während die Kontrolle beim Urheber und den hoheitlichen Trägern bleibt.
